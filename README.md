@@ -110,5 +110,5 @@ If you have any questions, feel free to ask [me](mailto:wobblein@gmail.com) abou
 This project is founded and actively maintained by [Maanas Nair](https://github.com/MaanasNair/). For any sort of queries feel free to mail at wobblein@gmail.com.
 
 <a href="http://patreon.com/join/itsmebirdie?" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/Swati4star)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/MaanasNair)
 <a href="https://patreon.com/join/itsmebirdie?" target="_blank">
